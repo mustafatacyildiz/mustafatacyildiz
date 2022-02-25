@@ -4,14 +4,7 @@ I am a Web Developer.
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafatacyildiz/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mustafatacyildiz9@gmail.com)
-
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafatacyildiz)](https://github.com/mustafatacyildiz/github-readme-stats)
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatacyildiz)](https://github.com/mustafatacyildiz/github-readme-stats) --->
-
-
-
-
-
+<br><br>
 
 ## 💻 Frontend
 
@@ -52,7 +45,6 @@ I am a Web Developer.
 <!-- ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png) -->
 
 
-- :office: [LinkedIn](https://www.linkedin.com/in/mustafatacyildiz/)
   
 
 
