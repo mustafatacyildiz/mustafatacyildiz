@@ -1,8 +1,6 @@
 My name is Mustafa Taçyıldız.
 I am a Web Developer.
 
-
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=mustafatacyildiz9@gmail.com)
 
 
@@ -46,6 +44,13 @@ I am a Web Developer.
 <br>
 
 <!-- ![image](https://user-images.githubusercontent.com/81574109/121217784-d89ad580-c88a-11eb-9479-b6cc0600378f.png) -->
+
+
+- :office: [LinkedIn](https://www.linkedin.com/in/mustafatacyildiz/)
+  
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mustafatacyildiz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatacyildiz)](https://github.com/tceyhan/github-readme-stats)
 
 
 
