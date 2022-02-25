@@ -1,4 +1,3 @@
-### Hi there 👋
 My name is Mustafa Taçyıldız.
 I am a Web Developer.
 
