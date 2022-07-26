@@ -12,8 +12,6 @@
 </div>
 <br>
 
-  <hr/>
-
 <p>&nbsp</p>
 
 <h2 align="center"> Languages and Tools: </h2>
@@ -26,21 +24,16 @@
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
-  <p><a href="https://blog-app-milistone-project.netlify.app/" target="_blank" rel="noreferrer">Blog App Millistone Project</a></p>
-  <p><a href="https://movie-app-firebase-heroku.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase and React</a></p>
-  <p><a href="https://sule-ss.github.io/random-user-app2/" target="_blank" rel="noreferrer">Random User App 2</a></p>
-  <p><a href="https://recipe-app-router.netlify.app/" target="_blank" rel="noreferrer">Recipe App</a></p>
-  <p><a href="https://shopping-store-site.netlify.app/" target="_blank" rel="noreferrer">Online Shopping Store with Router</a></p>
-  <p><a href="https://sule-ss.github.io/random-user-app/" target="_blank" rel="noreferrer">Random User App 1</a></p>
-  <p><a href="https://sule-ss.github.io/task-tracker/" target="_blank" rel="noreferrer">TASK TRACKER</a></p>
-  <p><a href="https://sule-ss.github.io/todolist-with-react/" target="_blank" rel="noreferrer">Todo List</a></p>
-  <p><a href="https://sule-ss.github.io/languages-cards/" target="_blank" rel="noreferrer">Languages Cards</a></p>
-  <p><a href="https://sule-ss.github.io/populer-tour-places/" target="_blank" rel="noreferrer">Populer Tour Places</a></p>
-  <p><a href="https://sule-ss.github.io/tic-tac-toe/" target="_blank" rel="noreferrer">Tic Tac Toe Game</a></p>  
-  <!-- <p><a href="https://movieapp-react-sule.netlify.app/" target="_blank" rel="noreferrer">React Movie App</a></p> -->
-  <p><a href="https://sule-recipe-app2.herokuapp.com/" target="_blank" rel="noreferrer">Recipe App 2</a></p>
-  <p><a href="https://sule-ss.github.io/weather-app/" target="_blank" rel="noreferrer">Weather App</a></p>
-  <p><a href="https://web-design-router.herokuapp.com/" target="_blank" rel="noreferrer">Web Deisgn Page</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/010-FireBlog-App-(Milestone)/" target="_blank" rel="noreferrer">Blog App Millistone Project</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/007-Random-User-App-2/" target="_blank" rel="noreferrer">Random User App 2</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/006-Recipe-App/" target="_blank" rel="noreferrer">Recipe App</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/004-Random-User-App/" target="_blank" rel="noreferrer">Random User App 1</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/005-Task-Tracker-JSON-Server/" target="_blank" rel="noreferrer">Task Tracker JSON</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/003-Language-Cards/" target="_blank" rel="noreferrer">Languages Cards</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/001-Tour-Places/" target="_blank" rel="noreferrer">Populer Tour Places</a></p> 
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/002-Task-Tracker/" target="_blank" rel="noreferrer">Task Tracker</a></p> 
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/008-Movie-App/" target="_blank" rel="noreferrer">Movie App</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/React-Projects/tree/master/009-Fire-Contact-App/solution/" target="_blank" rel="noreferrer">Contact App</a></p>
   <p><a href="" target="_blank" rel="noreferrer"></a></p>
 </details>
   <hr/>
@@ -48,20 +41,15 @@
 <details align="center">
   <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
  
-  <p><a href="https://sule-ss.github.io/weather-app/" target="_blank" rel="noreferrer">Weather App (js and jquery)</a></p>
-  <p><a href="https://sule-ss.github.io/stopwatch-app/" target="_blank" rel="noreferrer">Stopwatch App</a></p>
-  <p><a href="https://sule-ss.github.io/movie-seat-app/" target="_blank" rel="noreferrer">Movie Seat App</a></p>
-  <p><a href="https://sule-ss.github.io/team-members-page/" target="_blank" rel="noreferrer">Team Members Page</a></p>
-  <p><a href="https://sule-ss.github.io/digital-clock/" target="_blank" rel="noreferrer">Digital Clock</a></p>
-  <p><a href="https://sule-ss.github.io/Checkout-Page/" target="_blank" rel="noreferrer">Checkout Page</a></p>
-  <p><a href="https://sule-ss.github.io/Tennis-Score/" target="_blank" rel="noreferrer">Tennis Score</a></p>
-  <p><a href="https://sule-ss.github.io/Guess-The-Number/" target="_blank" rel="noreferrer">Guess The Number</a></p>
-  <p><a href="https://sule-ss.github.io/Lottery-Game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
-  <p><a href="https://sule-ss.github.io/Ios-Calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
-  <p><a href="https://sule-ss.github.io/ToDo-List/" target="_blank" rel="noreferrer">ToDo List</a></p>
-  <p><a href="https://sule-ss.github.io/Age-Calculator/" target="_blank" rel="noreferrer">Age Calculator</a></p>
-  <p><a href="https://sule-ss.github.io/Calculator-Game/" target="_blank" rel="noreferrer">Calculator Game</a></p>
-  <p><a href="https://sule-ss.github.io/booklist-with-bootstrap/" target="_blank" rel="noreferrer">Book List-Bootstrap</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/008-Weather-App-JQuery/" target="_blank" rel="noreferrer">Weather App (js and jquery)</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/006-Movie-Seat-App/" target="_blank" rel="noreferrer">Movie Seat App</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/005-Checkout-Page/" target="_blank" rel="noreferrer">Checkout Page</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/004-Lottery-Game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/003-Ios-Calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/002-To-Do-App/" target="_blank" rel="noreferrer">ToDo App</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/009-Exact-Age-Calculator/" target="_blank" rel="noreferrer"> Exact Age Calculator</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/001-Find-the-Number-Game/" target="_blank" rel="noreferrer">Find The Number Game</a></p>
+  <p><a href="https://github.com/mustafatacyildiz/javascript-projects/tree/master/007-Weather-App/" target="_blank" rel="noreferrer">Weather App</a></p>
    <p><a href="" target="_blank" rel="noreferrer"></a></p>
  
 </details>
@@ -160,7 +148,6 @@
   <p><a href="https://sule-ss.github.io/Web-Page-With-HTML-CSS/" target="_blank" rel="noreferrer">Web Page Design</a></p>
 </details>
   <hr/>
-  
   <details align="center">
   <summary><h3><em>Click For Django Projects!</em></h3></summary>
   <p><a href="https://sule-django-blog-app.herokuapp.com/" target="_blank" rel="noreferrer">Blog App</a></p>
@@ -168,7 +155,7 @@
 <p><a href="" target="_blank" rel="noreferrer"></a></p>
   </details>
   <hr/>
-
+  <br>
 <div align="center">
 <a href="https://github.com/mustafatacyildiz"><img src="https://visitor-badge.laobi.icu/badge?page_id=mustafatacyildiz&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 </div>
