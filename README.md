@@ -28,7 +28,7 @@
 
 
 
-<a href="https://github.com/mustafatacyildiz"><img src="https://visitor-badge.laobi.icu/badge?page_id=mustafatacyildiz&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+<a align="center" href="https://github.com/mustafatacyildiz"><img src="https://visitor-badge.laobi.icu/badge?page_id=mustafatacyildiz&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 
 
 
