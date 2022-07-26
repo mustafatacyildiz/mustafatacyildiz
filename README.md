@@ -1,11 +1,11 @@
 <h2 align="center"> Hi 👋, I'm Mustafa!</h2>
 </p>
-<h3 align="center">    <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100px" height="100px" />
-    <br />
-    <samp> <i>👒 I'm a Web Developer from Turkey. </i> </samp> <br />
-    <samp> 🌱 I’m currently learning ... </samp> <br />
-    <samp> 🐞 <i> The harder I go, The stronger I get. </i> </samp> <br /><br>
-  <samp> Ask me about <a href="https://github.com/mustafatacyildiz?tab=repositories">**projects!**</a></samp></h3>
+<h3 
+    <samp> <i>I'm a Web Developer from Turkey. </i> </samp> <br />
+    <samp>I’m currently learning ... </samp> <br />
+    <samp><i> The harder I go, The stronger I get. </i> </samp> <br /><br>
+  <samp> Ask me about <a href="https://github.com/mustafatacyildiz?tab=repositories">**projects!**</a></samp>
+</h3>
 <br>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafatacyildiz/)
