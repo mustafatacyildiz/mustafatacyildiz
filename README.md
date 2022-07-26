@@ -1,18 +1,15 @@
-<h2 align="center"> Hi 👋, I'm Mustafa!</h2>
-</p>
-<h3 align="center">
-    <br />
-    <samp> <i>I'm a Web Developer from Turkey. </i> </samp> <br />
-    <samp> I’m currently learning ... </samp> <br />
-    <samp><i> The harder I go, The stronger I get. </i> </samp> <br /><br>
-  <samp> Ask me about <a href="https://github.com/mustafatacyildiz?tab=repositories">**projects!**</a></samp>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+there+I+am+Mustafa...)](https://git.io/typing-svg)
+<a href="https://github.com/mustafatacyildiz"><img src="https://visitor-badge.laobi.icu/badge?page_id=fuatsevinc&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+<img src="images/developer.gif" width="400" align="right" alt="logo">
+<h3 align="center">A passionate FullStack developer</h3>
+<h6>🔭 I’m currently working on frontend and backend web development </h6>
 
-</h3>
-<br>
-<div align= "center>
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafatacyildiz/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mustafatacyildiz9@gmail.com)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafatacyildiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa tacyildiz" height="30" width="40" /></a>
+</p>
+
 
 ## 💻 Frontend
 
