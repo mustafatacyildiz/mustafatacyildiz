@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg)
 
-
-<h2 align="left">📱Contact Me</h2>
 <div align="left">
       <a href="mailto:mustafatacyildiz9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
       <a href="https://www.linkedin.com/in/mustafatacyildiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
