@@ -12,8 +12,6 @@
 </div>
 <br>
 
-<p><a href="" target="_blank" rel="noreferrer"></a></p>
-  </details>
   <hr/>
 
 <p>&nbsp</p>
