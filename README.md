@@ -11,11 +11,9 @@
       <a href="https://wa.me/+905055820522" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 </div>
 <br>
-
-<h3><samp> Ask me about <a href="https://github.com/Sule-Ss?tab=repositories">**projects!**</a></samp></h3>
+<hr>
 
 <p>&nbsp</p>
-
 
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
@@ -63,6 +61,7 @@
 <p><a href="https://github.com/mustafatacyildiz/Django-Projects/tree/master/002-Flight-App-Project" target="_blank" rel="noreferrer">Flight App</a></p>
 </details>
 <hr>
+<br>
 <p>&nbsp</p>
 <h2 align="center"> Languages and Tools: </h2>
 <p>&nbsp</p>
