@@ -12,6 +12,8 @@
 </div>
 <br>
 
+<h3><samp> Ask me about <a href="https://github.com/Sule-Ss?tab=repositories">**projects!**</a></samp></h3>
+
 <p>&nbsp</p>
 
 
