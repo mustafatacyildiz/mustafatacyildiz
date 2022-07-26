@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+there+I+am+Mustafa...)](https://git.io/typing-svg)
-<a href="https://github.com/mustafatacyildiz"><img src="https://visitor-badge.laobi.icu/badge?page_id=fuatsevinc&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+<a href="https://github.com/mustafatacyildiz"><img src="https://visitor-badge.laobi.icu/badge?page_id=mustafatacyildiz&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 <img src="images/developer.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate FullStack developer</h3>
 <h4>🔭 I’m currently working on frontend and backend web development </h4>
@@ -13,7 +13,6 @@
 </div>
 <br>
 
-
 <p><a href="" target="_blank" rel="noreferrer"></a></p>
   </details>
   <hr/>
@@ -26,6 +25,10 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://e6.pngbyte.com/pngpicture/57336/png-Png-Django-Logo-Png-Download-Django-Development-python-icon.png" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </p>
 <p>&nbsp</p>
+
+
+
+<a href="https://github.com/mustafatacyildiz"><img src="https://visitor-badge.laobi.icu/badge?page_id=mustafatacyildiz&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 
 
 
