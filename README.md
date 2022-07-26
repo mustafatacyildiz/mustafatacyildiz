@@ -5,12 +5,15 @@
     <samp> <i>I'm a Web Developer from Turkey. </i> </samp> <br />
     <samp> I’m currently learning ... </samp> <br />
     <samp><i> The harder I go, The stronger I get. </i> </samp> <br /><br>
-  <samp> Ask me about <a href="https://github.com/mustafatacyildiz?tab=repositories">**projects!**</a></samp></h3>
+  <samp> Ask me about <a href="https://github.com/mustafatacyildiz?tab=repositories">**projects!**</a></samp>
 <br>
-
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafatacyildiz/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mustafatacyildiz9@gmail.com)
 <br><br>
+</h3>
+<br>
+
+
 
 ## 💻 Frontend
 
